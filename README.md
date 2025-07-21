@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Mohammad Al-Amin Raj
-- 👀 I’m interested in becoming a DevOps engineer in the future
-- 🌱 I’m currently learning JavaScript
-- 💞️ I do competitive programming as a pastime and want to create indie games as side project in the future
+
