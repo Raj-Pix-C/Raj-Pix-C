@@ -67,7 +67,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Raj--Pix--C-268bd2?style=flat-square&logo=github&logoColor=white)](https://github.com/Raj-Pix-C)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-your%40email.com-2aa198?style=flat-square&logo=gmail&logoColor=white)](mailto:raj.rajpixc@gmail.com)
+[![Email](https://img.shields.io/badge/Email-raj.rajpixc%40gmail.com-2aa198?style=flat-square&logo=gmail&logoColor=white)](mailto:raj.rajpixc@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-your--profile-6c71c4?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
