@@ -7,19 +7,12 @@
 
 <div align="center">
 
-<!-- PIXEL ART PLACEHOLDER ─────────────────────────────────────────────────
-     Replace the SVG below with your hand-drawn pixel art image.
-     Recommended: export as PNG (64×64 or 128×128px), then use:
-     
-──────────────────────────────────────────────────────────────────────────-->
-
-<img src="./assets/sprite.png" width="96" height="96" />
 
 <!-- TYPING ANIMATION via readme-typing-svg ─────────────────────────────-->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=268BD2&center=true&vCenter=true&width=400&lines=Raj-Pix-C)](https://git.io/typing-svg)
 
-`// thinker. builder. tinkerer. open source enthusiast.`
+`// thinker. builder. tinkerer. open source enthusiast. //`
 
 </div>
 
