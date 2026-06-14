@@ -51,7 +51,7 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-raj.rajpixc%40gmail.com-2aa198?style=flat-square&logo=gmail&logoColor=white)](mailto:raj.rajpixc@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--profile-6c71c4?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--profile-6c71c4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-al-amin-raj-624832416)
 
 </div>
 
