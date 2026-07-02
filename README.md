@@ -27,9 +27,9 @@
 
 | project | description | stack |
 |---|---|---|
-| `project-one` | _short description here_ | `...` |
-| `project-two` | _short description here_ | `...` |
-| `project-three` | _short description here_ | `...` |
+| `admission-management-software` | _Academic Project for University_ | `...` |
+| `String-that-bind-us` | _2D metroidvania game_ | `...` |
+| `private-project` | _as name suggest_ | `...` |
 
 ---
 
