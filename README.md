@@ -27,8 +27,8 @@
 
 | project | description | stack |
 |---|---|---|
-| `admission-management-software` | _Academic Project for University_ | `...` |
-| `String-that-bind-us` | _2D metroidvania game_ | `...` |
+| `admission-management-software` | _Academic Project for University_ | `Java, Css, MySQL, JBCrypt` |
+| `String-that-bind-us` | _2D metroidvania game_ | `C#, Unity` |
 | `private-project` | _as name suggest_ | `...` |
 
 ---
