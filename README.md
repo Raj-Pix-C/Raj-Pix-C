@@ -33,15 +33,24 @@
 
 ---
 
+<!--
 ### ▸ github stats
+ 
+<div align="center">
+![Raj-Pix-C's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raj-Pix-C&show_icons=true&theme=solarized-dark&hide_border=true&count_private=true)
+ 
+</div>
+---
+-->
+
+
+### ▸ stats
 
 <div align="center">
 
-![Raj-Pix-C's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raj-Pix-C&show_icons=true&theme=solarized-dark&hide_border=true&count_private=true)
+![Raj-Pix-C stats panel](https://raj-pix-stats.vercel.app/api/panel)
 
 </div>
-
----
 
 ### ▸ contact
 
