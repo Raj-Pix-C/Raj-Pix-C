@@ -27,9 +27,9 @@
 
 | project | description | stack |
 |---|---|---|
-| `admission-management-software` | _Academic Project for University_ | `Java, Css, MySQL, JBCrypt` |
+| `admission-management-software` | _Academic Project for University_ | `Java, Css, MySQL, JBCrypt, JavaFX` |
 | `String-that-bind-us` | _2D metroidvania game_ | `C#, Unity` |
-| `private-project` | _as name suggest_ | `...` |
+| `private-project` | _as name suggest_ | `HTML, Css, React, JWT Auth, bcrypt, Node.js, Express.js, MongoDB, Mongoose, Vite, Rest API, RBAC` |
 
 ---
 
