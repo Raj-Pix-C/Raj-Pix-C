@@ -47,9 +47,11 @@
 ### ▸ stats
 
 <div align="center">
-
+<!--
 ![Raj-Pix-C stats panel](https://raj-pix-stats.vercel.app/api/panel)
-
+-->
+  <h3>Please be patient... the user created something that he didn't like</h3>
+  <h4>Hence removed</h4>
 </div>
 
 ### ▸ contact
