@@ -29,7 +29,7 @@
 |---|---|---|
 | `admission-management-software` | _Academic Project for University_ | `Java, Css, MySQL, JBCrypt, JavaFX` |
 | `String-that-bind-us` | _2D metroidvania game_ | `C#, Unity` |
-| `private-project` | _as name suggest_ | `HTML, Css, React, JWT Auth, bcrypt, Node.js, Express.js, MongoDB, Mongoose, Vite, Rest API, RBAC` |
+| `private-project` | _as name suggest_ | `HTML, Css, React, JWT Auth, bcrypt, Node.js, Express.js, Python, MongoDB, Mongoose, Vite, Rest API, RBAC` |
 
 ---
 
@@ -58,14 +58,16 @@
 
 <div align="center">
 
-<!--
-[![GitHub](https://img.shields.io/badge/GitHub-Raj--Pix--C-268bd2?style=flat-square&logo=github&logoColor=white)](https://github.com/Raj-Pix-C)
-&nbsp;
--->
-[![Email](https://img.shields.io/badge/Email-raj.rajpixc%40gmail.com-2aa198?style=flat-square&logo=gmail&logoColor=white)](mailto:raj.rajpixc@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Al%20Amin%20Raj-6c71c4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-al-amin-raj-624832416)
-
+  <a href="mailto:raj.rajpixc@gmail.com">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="Mail"/>
+  </a>
+  <a href="https://linkedin.com/in/raj-rajpixc">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/raj.rajpixc">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/facebook.png" alt="facebook"/>
+  </a>
+  
 </div>
 
 ---
