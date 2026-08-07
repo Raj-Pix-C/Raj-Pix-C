@@ -59,13 +59,13 @@
 <div align="center">
 
   <a href="mailto:raj.rajpixc@gmail.com">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="Mail"/>
+    <img width="48" height="48" src="https://img.icons8.com/clouds/100/gmail-new.png" alt="Gmail"/>
   </a>
   <a href="https://linkedin.com/in/raj-rajpixc">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+    <img width="48" height="48" src="https://img.icons8.com/clouds/100/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/raj.rajpixc">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/facebook.png" alt="facebook"/>
+    <img width="48" height="48" src="https://img.icons8.com/clouds/100/facebook-new.png" alt="facebook"/>
   </a>
   
 </div>
