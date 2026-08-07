@@ -52,6 +52,17 @@
 -->
   <h3>Please be patient... the user created something that he didn't like</h3>
   <h4>Hence removed</h4>
+  <h5>The following box will be replaced by self created stuff</h5>
+  <h6>Look forward to it</h6>
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Raj-Pix-C&theme=%7B%22backgroundColor%22%3A%22%230f172a%22%2C%22textColor%22%3A%22%23e2e8f0%22%2C%22accentColor%22%3A%22%230ea5e9%22%2C%22borderColor%22%3A%22%231e293b%22%2C%22waterColor%22%3A%22%230ea5e9%22%2C%22streakColor%22%3A%22%2306b6d4%22%7D)
+
+
+<sub><code>courtesy oof — <a href="https://github.com/ZainulabdeenOfficial/GitHub-Streak-Card">ZainulabdeenOfficial/GitHub-Streak-Card</a></code></sub>
+
 </div>
 
 ### ▸ contact
