@@ -12,7 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=268BD2&center=true&vCenter=true&width=400&lines=Raj-Pix-C)](https://git.io/typing-svg)
 
-` thinker. builder. tinkerer. open source enthusiast. `
+` thinker. builder. tinkerer. `
 
 </div>
 
@@ -27,10 +27,9 @@
 
 | project | description | stack |
 |---|---|---|
-| `admission-management-software` | _Academic Project for University_ | `Java, Css, MySQL, JBCrypt, JavaFX` |
-| `String-that-bind-us` | _2D metroidvania game_ | `C#, Unity` |
-| `private-project` | _as name suggest_ | `HTML, Css, React, JWT Auth, bcrypt, Node.js, Express.js, Python, MongoDB, Mongoose, Vite, Rest API, RBAC` |
-
+| `admission-management-software` | _Academic Project for University_ | `Java, Css, MySQL, JBCrypt, JavaFX, Jakarta Mail` |
+| `prosnopotro` | _Online Educational S.a.a.S_ | `HTML, Css, React, JWT Auth, bcrypt, Node.js, Express.js, Python, MongoDB, Mongoose, Vite, Rest API, RBAC` |
+<!--| `prosnopotro-frontend` | _Online Educational S.a.a.S_ | `` | -->
 ---
 
 <!--
