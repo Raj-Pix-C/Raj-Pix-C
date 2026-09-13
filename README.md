@@ -3,7 +3,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&size=28&duration=3000&pause=1000&color=268BD2&center=true&vCenter=true&width=500&lines=Mohammad+Al-Amin+Raj;A.K.A+Raj-Pix-C;Full-Stack+Developer"
+    srcset="https://readme-typing-svg.demolab.com?font=Inconsolata&size=28&duration=3000&pause=1000&color=268BD2&center=true&vCenter=true&width=500&lines=Mohammad+Al-Amin+Raj;A.K.A;Raj-Pix-C"
   >
   <source
     media="(prefers-color-scheme: light)"
@@ -27,7 +27,7 @@
 
 
 ### ▸ `Profile`
-***Passionate and detail-oriented Full-Stack Developer with experience in front-end development, Python automation, backend integration, and deployment. Skilled in building scalable web applications and efficient software solutions. Strong in problem solving, critical thinking, and teamwork, with a commitment to continuous learning and delivering high-quality results.***
+***Full-Stack Developer with experience in front-end development, Python automation, backend integration, and deployment. Skilled in building scalable web applications and efficient software solutions. Strong in problem solving, critical thinking, and teamwork, with a commitment to continuous learning and delivering high-quality results.***
 
 ### ▸ `Contact`
 
@@ -92,8 +92,18 @@ Rangpur Zilla School – Rangpur\
 - **English:** Intermediate
 - **Bangla:** Fluent
 
+### ▸ `Hobbies`
+- Reading
+- 2D Games
+- Computer Graphics
+- Mathematics & Physics in Games
+- Organic Chemistry
+- Software Engineering
+- intel 8086
+
+
 ---
 
 <div align="center">
-<sub><code>pixel by pixel — built with intent</code></sub>
+<sub><code>raj-pix-c — raj as pixel coder</code></sub>
 </div>
