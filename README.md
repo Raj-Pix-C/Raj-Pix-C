@@ -23,7 +23,7 @@
 ---
 
 ### ▸ ***`Mohammad Al-Amin Raj`*** 
-*Full-Stack Developer : : Dinajpur, Bangladesh*
+*Full-Stack Developer : : Rangpur, Bangladesh*
 
 
 ### ▸ `Profile`
@@ -75,7 +75,7 @@ Responsible for front-end design as well as writing Python automation scripts fo
 
 ### ▸ `Education`
 
-- **B.Sc. (Engr.) in C.S.E.** *(Ongoing, 6th semester)*\
+- **B.Sc. (Engr.) in C.S.E.** *(Ongoing, 6th semester)(CGPA 3.66)*\
 Hajee Mohammad Danesh Science and Technology University – Dinajpur\
 <sub>Aug 2023 – July 2027</sub>  
 
